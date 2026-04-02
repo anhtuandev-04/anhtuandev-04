@@ -48,10 +48,10 @@
 <br>
 <div align=center>
   <a href="#" title="anhtuandev-04">
-    <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ductridev&hide=c%23,powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhtuandev-04&hide=c%23,powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="anhtuandev-04">
-    <img align="right" width="434" src="https://github-readme-stats-fast.vercel.app/api?username=ductridev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats-fast.vercel.app/api?username=anhtuandev-04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <br>
