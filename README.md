@@ -49,7 +49,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/anhtuandev-04">
-          <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuandev-04&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+          <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuandev-04&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
         </a>
       </td>
       <td align="center">
