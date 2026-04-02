@@ -41,25 +41,20 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 </div>
-<br>
 
+<br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/anhtuandev-04">
-          <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtuandev-04&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/anhtuandev-04">
-          <img height="195" src="https://github-readme-stats.vercel.app/api?username=anhtuandev-04-create&show_icons=true&theme=tokyonight&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="anhtuandev-04">
+    <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ductridev&hide=c%23,powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="anhtuandev-04">
+    <img align="right" width="434" src="https://github-readme-stats-fast.vercel.app/api?username=ductridev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
 </div>
+<br>
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
