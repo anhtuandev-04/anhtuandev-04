@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Tuan;I'm+a+System+Engineer;I'm+a+Full+Stack+Developer;I'm+a+DevSecOps+Engineer&center=true&width=500&height=50">
 
 </div>
-<h3>🛠 Languages and Tools</h3>
+<h3 align="center">🛠 Languages and Tools</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" alt="C logo" title="C" height="25" /></span>
@@ -64,7 +64,7 @@
 </div>
 
 <br>
-<h3> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div align=center>
@@ -138,6 +138,8 @@
 <br>
 
 <h3 align="center">📑 Random Quotes 📑</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
