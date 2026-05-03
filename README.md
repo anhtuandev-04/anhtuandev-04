@@ -90,6 +90,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25"/></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=FB7A24" height="25"/></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="25"/></span>
@@ -103,8 +105,6 @@
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=FB7A24" height="25"/></span>
 &nbsp;
 
 <!-- Snake Game Repo View -->
