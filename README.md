@@ -12,8 +12,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Tuan;I'm+a+System+Engineer;I'm+a+Full+Stack+Developer;I'm+a+DevSecOps+Engineer&center=true&width=500&height=50">
 
 </div>
-<h3 align="center">🛠 Languages and Tools</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" alt="C logo" title="C" height="25" /></span>
 &nbsp;
@@ -60,12 +60,17 @@
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" title="TailwindCSS" height="25"/></span>
 &nbsp; 
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" title="Three.js" height="25"/></span>
-&nbsp;   
+&nbsp; 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 </div>
 
 <br>
-<h3 align="center"> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center"> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats </h3>
 <br>
 <div align=center>
   <a  align=center href="#" title="anhtuandev-04">
