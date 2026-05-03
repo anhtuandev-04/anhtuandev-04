@@ -72,9 +72,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" height="25"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
