@@ -134,7 +134,7 @@
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04&theme=radical&utcOffset=7"/>
         </a>
       </td>
     </tr>
