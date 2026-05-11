@@ -119,9 +119,9 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats </h3>
 <br>
 <div align=center>
-  <a  align=center href="#" title="anhtuandev-04">
-    <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhtuandev-04&hide=c%23,powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+  <a align="center" href="https://github.com/anhtuandev-04" title="anhtuandev-04">
+    <img width="315" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhtuandev-04&hide=c%23,powershell,Mathematica,Ruby,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide_forks=true" />
+    
   <a  align=center href="#" title="anhtuandev-04">
     <img align="center" width="434" src="https://github-readme-stats-fast.vercel.app/api?username=anhtuandev-04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
