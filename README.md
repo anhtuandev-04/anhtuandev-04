@@ -16,7 +16,7 @@
 <h3 align="center">🛠 Languages and Tools </h3>
 <div align="center">
   
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" height="25"/></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=7952B3" height="25"/></span>
 &nbsp;
