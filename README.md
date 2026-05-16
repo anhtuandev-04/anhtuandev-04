@@ -42,7 +42,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25"/></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25"/></span>
 &nbsp;
@@ -92,7 +92,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25"/> </span>
+<span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" height="25"/></span>
 &nbsp;
