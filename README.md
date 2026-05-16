@@ -181,8 +181,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04&theme=radical&utcOffset=7"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04"> 
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhtuandev-04&theme=radical&utcOffset=7"/> 
         </a>
       </td>
     </tr>
@@ -190,12 +190,12 @@
 </table>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">📑 Random Quotes 📑</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<h3 align="center">📑 Random Quotes 📑</h3> 
 
 <br>
 <div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-  </a>
-</div>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" /> 
+  </a> 
+</div> 
