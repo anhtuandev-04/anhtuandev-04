@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   <b style="font-size:22px; margin: 0 8px;">
-     Welcome to my GitHub
+    Welcome to my GitHub
   </b>
 </p>
 <div align="center">
