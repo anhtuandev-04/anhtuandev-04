@@ -107,12 +107,12 @@
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socketdotio&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
 
-<!-- Snake Game Repo View --> 
+<!-- Snake Game Repo View -->       
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
-</div>
-</div>
+<div align="center">      
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />    
+</div>    
+     
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
