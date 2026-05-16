@@ -107,7 +107,7 @@
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socketdotio&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View --> 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
