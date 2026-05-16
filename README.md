@@ -13,7 +13,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🛠 Languages and Tools </h3>
-<div align="center">
+<div align="center"> 
   
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" height="25"/></span> 
 &nbsp;
