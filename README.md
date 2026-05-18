@@ -31,7 +31,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7952B3" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25"/></span> 
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" height="25"/></span>
 &nbsp;
@@ -63,7 +63,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25"/></span>
 &nbsp;
