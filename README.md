@@ -31,7 +31,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7952B3" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" height="25"/></span>
 &nbsp;
