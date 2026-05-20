@@ -140,8 +140,8 @@
   <tbody align="center">
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtuandev-04">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtuandev-04&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtuandev-04"> 
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtuandev-04&theme=dracula"/> 
         </a>
       </td>
     </tr>
