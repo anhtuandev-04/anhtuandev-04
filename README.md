@@ -137,7 +137,7 @@
       </td>
     </tr>
   </tbody>
-  <tbody align="center"> 
+  <tbody align="center">
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhtuandev-04"> 
