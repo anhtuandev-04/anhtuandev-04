@@ -149,7 +149,7 @@
   <tbody align="center">
     <tr>
       <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=anhtuandev-04"> 
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=anhtuandev-04">
           <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=anhtuandev-04&theme=dracula">
         </a>
       </td>
