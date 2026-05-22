@@ -83,8 +83,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25"/></span>
-&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25"/></span> 
+&nbsp; 
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" height="25"/></span>
