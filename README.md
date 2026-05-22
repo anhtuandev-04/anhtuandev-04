@@ -79,7 +79,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25"/></span>
 &nbsp;
