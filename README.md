@@ -166,7 +166,7 @@
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhtuandev-04&">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhtuandev-04&"> 
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhtuandev-04&theme=dracula"/>
         </a>
       </th>
