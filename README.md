@@ -8,7 +8,7 @@
   </b>
 </p>
 <div align="center"> 
- 
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Tuan;I'm+a+System+Engineer;I'm+a+Full+Stack+Developer;I'm+a+DevSecOps+Engineer&center=true&width=500&height=50">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
