@@ -59,7 +59,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" height="25"/></span>
 &nbsp;
