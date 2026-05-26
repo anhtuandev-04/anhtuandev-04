@@ -95,7 +95,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" height="25"/></span> 
 &nbsp;
-<span><img src="https://img.shields.io/badge/NGINX-282C34?logo=nginx&logoColor=009639" height="25"/></span>
+<span><img src="https://img.shields.io/badge/NGINX-282C34?logo=nginx&logoColor=009639" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" height="25"/></span>
 &nbsp;
