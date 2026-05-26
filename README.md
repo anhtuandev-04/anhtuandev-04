@@ -93,7 +93,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/NGINX-282C34?logo=nginx&logoColor=009639" height="25"/></span>
 &nbsp;
