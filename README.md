@@ -1,5 +1,5 @@
 <div align="left">         
-  <img src="https://komarev.com/ghpvc/?username=tranhtuan204-create&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tranhtuan204-create&color=blue" alt="Profile views" /> 
 </div>
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
