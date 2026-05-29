@@ -49,7 +49,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CI%2FCD-282C34?logo=githubactions&logoColor=2088FF" height="25"/></span>
+<span><img src="https://img.shields.io/badge/CI%2FCD-282C34?logo=githubactions&logoColor=2088FF" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25"/></span>
 &nbsp;
