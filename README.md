@@ -101,7 +101,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" height="25"/></span> 
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socketdotio&logoColor=FFFFFF" height="25"/></span>
 &nbsp;
